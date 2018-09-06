@@ -1,5 +1,5 @@
 # Utraffic ![build-passed](https://travis-ci.org/corneliouzbett/U-traffic-cops.svg?branch=master)
-This application was generated using JHipster 5.3.1, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v5.3.1](https://www.jhipster.tech/documentation-archive/v5.3.1).
+This application was built on top of spring boot framework and angular JS fronted
 
 ## Development
 
