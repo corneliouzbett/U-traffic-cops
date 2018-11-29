@@ -1,5 +1,5 @@
 # Utraffic ![build-passed](https://travis-ci.org/corneliouzbett/U-traffic-cops.svg?branch=master)
-This application was built on top of spring boot framework and angular JS fronted
+This application was built on top of spring boot framework and angular JS fronted. It's main goal is to reduce road carnage and impunity in our roads, #save life
 
 ## Development
 
